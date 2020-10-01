@@ -58,7 +58,7 @@ Go to your root folder and execute `python setup.py bdist_wheel`
 ## Upload on PyPi
 #### 1. Create pypirc: 
 The Pypirc file stores the PyPi repository information. Create a file in the home directory  
-**for Windows** :  C:\Users\UserName\.pypirc 
+**for Windows** :  C:\Users\UserName\.pypirc  
 **for  Linux** :   ~/.pypirc  
 
 #### 2.And add the following content to it. Replace `Guineapig98` with your username.

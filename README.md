@@ -47,7 +47,7 @@ setuptools.setup(name="hello_package",
 > For more obout SetupTools and Manifest.in, please visit [packaging](https://blog.ionelmc.ro/presentations/packaging/#slide:1)
 ### Manifest.in Command:  
 |Command                   | Description                                                        |
-|:----------------:--------|--------------------------------------------------------------------|
+|:------------------------:|--------------------------------------------------------------------|
 | in/exclude pat1 pat2     |include all files matching any of the listed patterns               |
 | recursive-include dir pat|include all files under dir matching any of the listed patterns     |
 | global-include           | any files in source tree matching any of the listed patterns       |

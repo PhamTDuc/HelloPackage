@@ -43,9 +43,11 @@ setuptools.setup(name="hello_package",
                  )
 
 ```  
-> For more details about **packages** and **py_modules** in `setuptools.setup()`, please visit [list_packages_and_modules](https://docs.python.org/3/distutils/setupscript.html) 
-> For more obout SetupTools and Manifest.in, please visit [packaging](https://blog.ionelmc.ro/presentations/packaging/#slide:1)  
+> For more details about **packages** and **py_modules** in `setuptools.setup()`, please visit [list_packages_and_modules](https://docs.python.org/3/distutils/setupscript.html)   
+> For more obout SetupTools and Manifest.in, please visit [packaging](https://blog.ionelmc.ro/presentations/packaging/#slide:1)    
+
 > Readmore [A practical guide to use setup.py](https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/)
+> To add custom Command to setup.py, please visit [Add custom command to setup.py](https://jichu4n.com/posts/how-to-add-custom-build-steps-and-commands-to-setuppy/)
 ### Manifest.in Command:  
 |Command                         | Description                                                        |
 |:------------------------------:|--------------------------------------------------------------------|
